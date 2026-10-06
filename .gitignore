@@ -1,0 +1,8 @@
+Data/*
+__pycache__/
+venv/
+Checkpoints/*
+!Data/.gitkeep
+!Checkpoints/.gitkeep
+ChessEngine/models/stockfish.exe
+ChessEngine/models/stockfish/
